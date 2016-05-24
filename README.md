@@ -4,6 +4,8 @@
   
   http://thedeveloperworldisyours.com/android/listener-from-fragment-to-activity/#sthash.T1vJyXft.dpbs
   
+  <img src="http://thedeveloperworldisyours.com/wp-content/uploads/ListenerFromFragmentToActivity.png" alt="" />
+  
   <img src="http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif" alt="" />
   
   Also visit my blog 
