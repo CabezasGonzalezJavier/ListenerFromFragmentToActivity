@@ -4,7 +4,7 @@
   
   <img src="http://thedeveloperworldisyours.com/wp-content/uploads/ListenerFromFragmentToActivity.png" alt="" />
   
-  ![alt text](http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif"gif")
+  ![alt text](http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif "gif")
   
   Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
   
