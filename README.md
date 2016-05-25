@@ -1,15 +1,12 @@
 # About
   This is a simple example how to make listener from fragment to activity on Android. 
-  Listener from fragment to actvity
-  
-  http://thedeveloperworldisyours.com/android/listener-from-fragment-to-activity/#sthash.T1vJyXft.dpbs
+  **[Listener from fragment to actvity](http://thedeveloperworldisyours.com/android/listener-from-fragment-to-activity/#sthash.T1vJyXft.dpbs)**
   
   <img src="http://thedeveloperworldisyours.com/wp-content/uploads/ListenerFromFragmentToActivity.png" alt="" />
   
-  <img src="http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif" alt="" />
+  ![alt text](http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif"gif")
   
-  Also visit my blog 
-  http://thedeveloperworldisyours.com/
+  Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
   
 # Requirements
 
