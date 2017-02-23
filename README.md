@@ -5,7 +5,9 @@
  <img src="http://thedeveloperworldisyours.com/wp-content/uploads/ListenerFromFragmentToActivity.png" width="300px" />
 </p>
   
-  ![alt text](http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif "gif")
+  <p align="center">
+ <img src="http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif" width="300px" />
+</p>
   
   Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
   <a href="http://thedeveloperworldisyours.com/">
