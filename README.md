@@ -1,9 +1,8 @@
 # About
   This is a simple example how to make listener from fragment to activity on Android. 
   **[Listener from fragment to actvity](http://thedeveloperworldisyours.com/android/listener-from-fragment-to-activity/#sthash.T1vJyXft.dpbs)**
-  <p align="center">
- <img src="http://thedeveloperworldisyours.com/wp-content/uploads/ListenerFromFragmentToActivity.png" width="300px" />
-</p>
+  
+ <img src="http://thedeveloperworldisyours.com/wp-content/uploads/ListenerFromFragmentToActivity.png" />
   
   <p align="center">
  <img src="http://thedeveloperworldisyours.com/wp-content/uploads/listenerFragmentToActivityy.gif" width="300px" />
